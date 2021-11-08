@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chitransha 
 - 👀 I’m interested in helping solve the mundane problems of DSML Community
 - 🌱 I’m currently learning the knitting skills of DSML ecosystem & Python
-- 🌱 I’m currently building "anovos" a platform focused to solve all of your data prep work with just few clicks. 
+- 🌱 I’m currently building "anovos" a platform focused to solve all of your data prep work with just few lines of code. 
 - 💞️ I’m looking to collaborate on the problems which data scientists faces in their day to day operations , things which are large OR remotely repetitive, can be automated but arent yet. 
 - 📫 You can reach me chitransha@mobilewalla.com 
 
